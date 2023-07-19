@@ -75,6 +75,3 @@
 
 ###
 
-###
-![Snake animation](https://github.com/Sidd-007/Sidd-007/blob/output/github-contribution-grid-snake.svg)
-###
