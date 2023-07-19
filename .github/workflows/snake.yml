@@ -18,7 +18,7 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: ${{ github.Sidd-007 }}
+          github_user_name: ${{ Sidd-007 }}
           outputs: dist/snake.svg
 
 
@@ -28,4 +28,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.c02b2a67c8da988de1885e67da508856a54b7492 }}
+          GITHUB_TOKEN: ${{ c02b2a67c8da988de1885e67da508856a54b7492 }}
