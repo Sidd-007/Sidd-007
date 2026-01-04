@@ -3,7 +3,8 @@
 ###
 
 <div align="center">
-<img src="https://git-hub-streak-stats.vercel.app?user=Sidd-007&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
+# <img src="https://git-hub-streak-stats.vercel.app?user=Sidd-007&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Sidd-007&theme=dark)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sidd-007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
